@@ -1,4 +1,4 @@
-# Hisaab-Kitab-Accounting-Dynamite-2.0
+# Hisaab-Kitaab-Accounting-Dynamite-2.0
 Kaavish Project 
 
 ## How to Run the Project
