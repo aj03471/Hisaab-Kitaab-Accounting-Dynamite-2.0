@@ -1,0 +1,10 @@
+INSERT INTO ACCOUNT_HEADS(ACCHEAD_ID,ACCPARENTHEAD_ID,ACCHEAD_NAME,ATTRIBUTE_CHOICE,DEPCARD_CHOICE,ADDCARD_CHOICE,PICTURE_CHOICE)
+VALUES (1,20, 'Ali Asgar Textile Mill', 1,1,1,1),
+(2,20, 'Aazad Commission',0,0,1,0),
+(3,40,'Computer Choice',0,0,1,0),
+(4,40,'Virtual Cables',0,0,0,0),
+(5,86, 'Telephone Expense', 0,0,0,0),
+(6, 88, 'Office Supplies', 0,0,0,0);
+
+SELECT * FROM ACCOUNT_HEADS 
+INNER JOIN 

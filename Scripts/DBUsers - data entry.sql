@@ -1,0 +1,4 @@
+INSERT INTO DBUsers(USER_ID,USER_NAME,USER_PASSWORD)
+VALUES (1,'admin','admin');
+
+--SELECT * FROM DBUsers where USER_NAME = 'admin' AND USER_PASSWORD = 'admin';
