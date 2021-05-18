@@ -1,0 +1,1219 @@
+﻿namespace Hisaab_Kitaab
+{
+    partial class List_Books
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.label1 = new System.Windows.Forms.Label();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.accountingTransactionsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listBooksToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listVouchersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.changeVoucherTypesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.transactionApprovalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.transactionMarkingToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.chartingToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listAccountHeadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listInventoryHeadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listAccountParentHeadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listInventoryParentHeadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listAccountAttributesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listInventoryAttributesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.openingBalancesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listAccountHeadOpeningBalancesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listInventoryHeadOpeningBalancesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.carryForwardToNextYearToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.accountHeadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.inventoryHeadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.broughtForwardFromLastYearToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.accountHeadToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.inventoryHeadToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.purchasesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listPurchaseRequisitionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listPurchaseOrdersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listGoodsRecieptNoteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listPurchaseBillToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listPurchaseReturnsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listExportInvoicesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listSalesInquiryToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listSalesOrderToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listDeliveryNoteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listSalesInvoiceToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.listCashMemoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listSalesReturnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listImportBillsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.productionConsumptionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listStoreIssueSlipsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listStoreReturnSlipsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listProductionAndConsumptionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listProductionCostToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateConsumptionVoucherToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listOfDesignedLayoutsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintFinancialStatementsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintAccountingReportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintVoucherJournalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintBooksToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintTransactionRegisterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintLedgerOfAccountHeadsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintTrialBalanceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintAgeingReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintInvoiceWiseOutstandingReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintCreditExposureReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintCollectionAndSalesReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPaymentsAndPurchaseReportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintMonthlyComparisionReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintMarkupCalculationSummarytToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintMarkupCalculationDetailToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintReceiptAndPaymentReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintInventoryReportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesOrderToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesRegisterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesSummaryItemwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesSummaryAccountwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesSummaryItemwisePartywiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesSummaryPartywiseItemwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesReturnRegisterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesReturnSummaryItemwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesReturnSummaryAccountwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesReturnItemwisePartywiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintSalesReturnPartywiseItemwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseReportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseOrderToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseRegisterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseSummaryItemwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseSummaryAccountwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseSummaryItemwisePartywiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseSummaryPartywiseItemwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseReturnsRegisterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseReturnsSummaryItemwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseReturnsSummaryAccountwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseReturnsSummaryItemwisePartywiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintPurchaseReturnsSummaryPartywiseItemwiseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintProductionAndConsumptionReportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintStoreConsumptionRegisterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintStoreConsumptionSummaryToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.itemwiseSummaryToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.departmentwiseSummaryToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.workOrderwiseSummaryToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintProductionRegisterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintProductionAndConsumptionSummaryToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateAndPrintStockReportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.allocationDistributionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listSalesInvoiceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listCostCentersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listDepartmentsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listWorkOrdersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listGodownWarehousesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listJobsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listProjectsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listForeignCurrencyToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.setupToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dataBackupToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.renumberVouchersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.remakeLedgerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.setDatabasePropertiesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.Button_Add = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.tabControl1.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Bell MT", 20F, System.Drawing.FontStyle.Bold);
+            this.label1.Location = new System.Drawing.Point(576, 57);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(171, 31);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "List of Books";
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Controls.Add(this.tabPage3);
+            this.tabControl1.Controls.Add(this.tabPage4);
+            this.tabControl1.Location = new System.Drawing.Point(209, 115);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(890, 297);
+            this.tabControl1.TabIndex = 1;
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Location = new System.Drawing.Point(4, 22);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(882, 271);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "Book ID";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(882, 289);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Book Title";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // tabPage3
+            // 
+            this.tabPage3.Location = new System.Drawing.Point(4, 22);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Size = new System.Drawing.Size(882, 289);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "Account Head";
+            this.tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // tabPage4
+            // 
+            this.tabPage4.Location = new System.Drawing.Point(4, 22);
+            this.tabPage4.Name = "tabPage4";
+            this.tabPage4.Size = new System.Drawing.Size(882, 289);
+            this.tabPage4.TabIndex = 3;
+            this.tabPage4.Text = "Parent Head";
+            this.tabPage4.UseVisualStyleBackColor = true;
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "\"Single Entry\"",
+            "\"Double Entry\""});
+            this.comboBox1.Location = new System.Drawing.Point(582, 100);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(148, 21);
+            this.comboBox1.TabIndex = 2;
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.AutoSize = false;
+            this.menuStrip1.BackColor = System.Drawing.Color.White;
+            this.menuStrip1.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.accountingTransactionsToolStripMenuItem,
+            this.chartingToolStripMenuItem,
+            this.openingBalancesToolStripMenuItem,
+            this.purchasesToolStripMenuItem,
+            this.salesToolStripMenuItem,
+            this.productionConsumptionToolStripMenuItem,
+            this.reportsToolStripMenuItem,
+            this.allocationDistributionToolStripMenuItem,
+            this.setupToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(1370, 43);
+            this.menuStrip1.TabIndex = 10;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // accountingTransactionsToolStripMenuItem
+            // 
+            this.accountingTransactionsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.listBooksToolStripMenuItem,
+            this.listVouchersToolStripMenuItem,
+            this.changeVoucherTypesToolStripMenuItem,
+            this.transactionApprovalToolStripMenuItem,
+            this.transactionMarkingToolStripMenuItem});
+            this.accountingTransactionsToolStripMenuItem.Name = "accountingTransactionsToolStripMenuItem";
+            this.accountingTransactionsToolStripMenuItem.Size = new System.Drawing.Size(201, 39);
+            this.accountingTransactionsToolStripMenuItem.Text = "Accounting Transactions";
+            // 
+            // listBooksToolStripMenuItem
+            // 
+            this.listBooksToolStripMenuItem.Name = "listBooksToolStripMenuItem";
+            this.listBooksToolStripMenuItem.Size = new System.Drawing.Size(245, 24);
+            this.listBooksToolStripMenuItem.Text = "List Books";
+            // 
+            // listVouchersToolStripMenuItem
+            // 
+            this.listVouchersToolStripMenuItem.Name = "listVouchersToolStripMenuItem";
+            this.listVouchersToolStripMenuItem.Size = new System.Drawing.Size(245, 24);
+            this.listVouchersToolStripMenuItem.Text = "List Vouchers";
+            // 
+            // changeVoucherTypesToolStripMenuItem
+            // 
+            this.changeVoucherTypesToolStripMenuItem.Name = "changeVoucherTypesToolStripMenuItem";
+            this.changeVoucherTypesToolStripMenuItem.Size = new System.Drawing.Size(245, 24);
+            this.changeVoucherTypesToolStripMenuItem.Text = "Change Voucher Types";
+            // 
+            // transactionApprovalToolStripMenuItem
+            // 
+            this.transactionApprovalToolStripMenuItem.Name = "transactionApprovalToolStripMenuItem";
+            this.transactionApprovalToolStripMenuItem.Size = new System.Drawing.Size(245, 24);
+            this.transactionApprovalToolStripMenuItem.Text = "Transaction Approval";
+            // 
+            // transactionMarkingToolStripMenuItem
+            // 
+            this.transactionMarkingToolStripMenuItem.Name = "transactionMarkingToolStripMenuItem";
+            this.transactionMarkingToolStripMenuItem.Size = new System.Drawing.Size(245, 24);
+            this.transactionMarkingToolStripMenuItem.Text = "Transaction Marking";
+            // 
+            // chartingToolStripMenuItem
+            // 
+            this.chartingToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.listAccountHeadToolStripMenuItem,
+            this.listInventoryHeadToolStripMenuItem,
+            this.listAccountParentHeadToolStripMenuItem,
+            this.listInventoryParentHeadToolStripMenuItem,
+            this.listAccountAttributesToolStripMenuItem,
+            this.listInventoryAttributesToolStripMenuItem});
+            this.chartingToolStripMenuItem.Name = "chartingToolStripMenuItem";
+            this.chartingToolStripMenuItem.Size = new System.Drawing.Size(84, 39);
+            this.chartingToolStripMenuItem.Text = "Charting";
+            // 
+            // listAccountHeadToolStripMenuItem
+            // 
+            this.listAccountHeadToolStripMenuItem.Name = "listAccountHeadToolStripMenuItem";
+            this.listAccountHeadToolStripMenuItem.Size = new System.Drawing.Size(272, 24);
+            this.listAccountHeadToolStripMenuItem.Text = "List Account Head";
+            // 
+            // listInventoryHeadToolStripMenuItem
+            // 
+            this.listInventoryHeadToolStripMenuItem.Name = "listInventoryHeadToolStripMenuItem";
+            this.listInventoryHeadToolStripMenuItem.Size = new System.Drawing.Size(272, 24);
+            this.listInventoryHeadToolStripMenuItem.Text = "List Inventory Head";
+            // 
+            // listAccountParentHeadToolStripMenuItem
+            // 
+            this.listAccountParentHeadToolStripMenuItem.Name = "listAccountParentHeadToolStripMenuItem";
+            this.listAccountParentHeadToolStripMenuItem.Size = new System.Drawing.Size(272, 24);
+            this.listAccountParentHeadToolStripMenuItem.Text = "List Account Parent Head";
+            // 
+            // listInventoryParentHeadToolStripMenuItem
+            // 
+            this.listInventoryParentHeadToolStripMenuItem.Name = "listInventoryParentHeadToolStripMenuItem";
+            this.listInventoryParentHeadToolStripMenuItem.Size = new System.Drawing.Size(272, 24);
+            this.listInventoryParentHeadToolStripMenuItem.Text = "List Inventory Parent Head";
+            // 
+            // listAccountAttributesToolStripMenuItem
+            // 
+            this.listAccountAttributesToolStripMenuItem.Name = "listAccountAttributesToolStripMenuItem";
+            this.listAccountAttributesToolStripMenuItem.Size = new System.Drawing.Size(272, 24);
+            this.listAccountAttributesToolStripMenuItem.Text = "View Account Attributes";
+            // 
+            // listInventoryAttributesToolStripMenuItem
+            // 
+            this.listInventoryAttributesToolStripMenuItem.Name = "listInventoryAttributesToolStripMenuItem";
+            this.listInventoryAttributesToolStripMenuItem.Size = new System.Drawing.Size(272, 24);
+            this.listInventoryAttributesToolStripMenuItem.Text = "View Inventory Attributes";
+            // 
+            // openingBalancesToolStripMenuItem
+            // 
+            this.openingBalancesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.listAccountHeadOpeningBalancesToolStripMenuItem,
+            this.listInventoryHeadOpeningBalancesToolStripMenuItem,
+            this.carryForwardToNextYearToolStripMenuItem,
+            this.broughtForwardFromLastYearToolStripMenuItem});
+            this.openingBalancesToolStripMenuItem.Name = "openingBalancesToolStripMenuItem";
+            this.openingBalancesToolStripMenuItem.Size = new System.Drawing.Size(147, 39);
+            this.openingBalancesToolStripMenuItem.Text = "Opening Balances";
+            // 
+            // listAccountHeadOpeningBalancesToolStripMenuItem
+            // 
+            this.listAccountHeadOpeningBalancesToolStripMenuItem.Name = "listAccountHeadOpeningBalancesToolStripMenuItem";
+            this.listAccountHeadOpeningBalancesToolStripMenuItem.Size = new System.Drawing.Size(350, 24);
+            this.listAccountHeadOpeningBalancesToolStripMenuItem.Text = "List Account Head Opening Balances";
+            // 
+            // listInventoryHeadOpeningBalancesToolStripMenuItem
+            // 
+            this.listInventoryHeadOpeningBalancesToolStripMenuItem.Name = "listInventoryHeadOpeningBalancesToolStripMenuItem";
+            this.listInventoryHeadOpeningBalancesToolStripMenuItem.Size = new System.Drawing.Size(350, 24);
+            this.listInventoryHeadOpeningBalancesToolStripMenuItem.Text = "List Inventory Head Opening Balances";
+            // 
+            // carryForwardToNextYearToolStripMenuItem
+            // 
+            this.carryForwardToNextYearToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.accountHeadToolStripMenuItem,
+            this.inventoryHeadToolStripMenuItem});
+            this.carryForwardToNextYearToolStripMenuItem.Name = "carryForwardToNextYearToolStripMenuItem";
+            this.carryForwardToNextYearToolStripMenuItem.Size = new System.Drawing.Size(350, 24);
+            this.carryForwardToNextYearToolStripMenuItem.Text = "Carry Forward to Next Year";
+            // 
+            // accountHeadToolStripMenuItem
+            // 
+            this.accountHeadToolStripMenuItem.Name = "accountHeadToolStripMenuItem";
+            this.accountHeadToolStripMenuItem.Size = new System.Drawing.Size(189, 24);
+            this.accountHeadToolStripMenuItem.Text = "Account Head";
+            // 
+            // inventoryHeadToolStripMenuItem
+            // 
+            this.inventoryHeadToolStripMenuItem.Name = "inventoryHeadToolStripMenuItem";
+            this.inventoryHeadToolStripMenuItem.Size = new System.Drawing.Size(189, 24);
+            this.inventoryHeadToolStripMenuItem.Text = "Inventory Head";
+            // 
+            // broughtForwardFromLastYearToolStripMenuItem
+            // 
+            this.broughtForwardFromLastYearToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.accountHeadToolStripMenuItem1,
+            this.inventoryHeadToolStripMenuItem1});
+            this.broughtForwardFromLastYearToolStripMenuItem.Name = "broughtForwardFromLastYearToolStripMenuItem";
+            this.broughtForwardFromLastYearToolStripMenuItem.Size = new System.Drawing.Size(350, 24);
+            this.broughtForwardFromLastYearToolStripMenuItem.Text = "Brought Forward from Last Year";
+            // 
+            // accountHeadToolStripMenuItem1
+            // 
+            this.accountHeadToolStripMenuItem1.Name = "accountHeadToolStripMenuItem1";
+            this.accountHeadToolStripMenuItem1.Size = new System.Drawing.Size(189, 24);
+            this.accountHeadToolStripMenuItem1.Text = "Account Head";
+            // 
+            // inventoryHeadToolStripMenuItem1
+            // 
+            this.inventoryHeadToolStripMenuItem1.Name = "inventoryHeadToolStripMenuItem1";
+            this.inventoryHeadToolStripMenuItem1.Size = new System.Drawing.Size(189, 24);
+            this.inventoryHeadToolStripMenuItem1.Text = "Inventory Head";
+            // 
+            // purchasesToolStripMenuItem
+            // 
+            this.purchasesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.listPurchaseRequisitionToolStripMenuItem,
+            this.listPurchaseOrdersToolStripMenuItem,
+            this.listGoodsRecieptNoteToolStripMenuItem,
+            this.listPurchaseBillToolStripMenuItem,
+            this.listPurchaseReturnsToolStripMenuItem,
+            this.listExportInvoicesToolStripMenuItem});
+            this.purchasesToolStripMenuItem.Name = "purchasesToolStripMenuItem";
+            this.purchasesToolStripMenuItem.Size = new System.Drawing.Size(94, 39);
+            this.purchasesToolStripMenuItem.Text = "Purchases";
+            // 
+            // listPurchaseRequisitionToolStripMenuItem
+            // 
+            this.listPurchaseRequisitionToolStripMenuItem.Name = "listPurchaseRequisitionToolStripMenuItem";
+            this.listPurchaseRequisitionToolStripMenuItem.Size = new System.Drawing.Size(259, 24);
+            this.listPurchaseRequisitionToolStripMenuItem.Text = "List Purchase Requisition";
+            // 
+            // listPurchaseOrdersToolStripMenuItem
+            // 
+            this.listPurchaseOrdersToolStripMenuItem.Name = "listPurchaseOrdersToolStripMenuItem";
+            this.listPurchaseOrdersToolStripMenuItem.Size = new System.Drawing.Size(259, 24);
+            this.listPurchaseOrdersToolStripMenuItem.Text = "List Purchase Orders";
+            // 
+            // listGoodsRecieptNoteToolStripMenuItem
+            // 
+            this.listGoodsRecieptNoteToolStripMenuItem.Name = "listGoodsRecieptNoteToolStripMenuItem";
+            this.listGoodsRecieptNoteToolStripMenuItem.Size = new System.Drawing.Size(259, 24);
+            this.listGoodsRecieptNoteToolStripMenuItem.Text = "List Goods Reciept Note";
+            // 
+            // listPurchaseBillToolStripMenuItem
+            // 
+            this.listPurchaseBillToolStripMenuItem.Name = "listPurchaseBillToolStripMenuItem";
+            this.listPurchaseBillToolStripMenuItem.Size = new System.Drawing.Size(259, 24);
+            this.listPurchaseBillToolStripMenuItem.Text = "List Purchase Bill";
+            // 
+            // listPurchaseReturnsToolStripMenuItem
+            // 
+            this.listPurchaseReturnsToolStripMenuItem.Name = "listPurchaseReturnsToolStripMenuItem";
+            this.listPurchaseReturnsToolStripMenuItem.Size = new System.Drawing.Size(259, 24);
+            this.listPurchaseReturnsToolStripMenuItem.Text = "List Purchase Returns";
+            // 
+            // listExportInvoicesToolStripMenuItem
+            // 
+            this.listExportInvoicesToolStripMenuItem.Name = "listExportInvoicesToolStripMenuItem";
+            this.listExportInvoicesToolStripMenuItem.Size = new System.Drawing.Size(259, 24);
+            this.listExportInvoicesToolStripMenuItem.Text = "List Export Invoices";
+            // 
+            // salesToolStripMenuItem
+            // 
+            this.salesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.listSalesInquiryToolStripMenuItem,
+            this.listSalesOrderToolStripMenuItem,
+            this.listDeliveryNoteToolStripMenuItem,
+            this.listSalesInvoiceToolStripMenuItem1,
+            this.listCashMemoToolStripMenuItem,
+            this.listSalesReturnToolStripMenuItem,
+            this.listImportBillsToolStripMenuItem});
+            this.salesToolStripMenuItem.Name = "salesToolStripMenuItem";
+            this.salesToolStripMenuItem.Size = new System.Drawing.Size(57, 39);
+            this.salesToolStripMenuItem.Text = "Sales";
+            // 
+            // listSalesInquiryToolStripMenuItem
+            // 
+            this.listSalesInquiryToolStripMenuItem.Name = "listSalesInquiryToolStripMenuItem";
+            this.listSalesInquiryToolStripMenuItem.Size = new System.Drawing.Size(208, 24);
+            this.listSalesInquiryToolStripMenuItem.Text = "List Sales Inquiry";
+            // 
+            // listSalesOrderToolStripMenuItem
+            // 
+            this.listSalesOrderToolStripMenuItem.Name = "listSalesOrderToolStripMenuItem";
+            this.listSalesOrderToolStripMenuItem.Size = new System.Drawing.Size(208, 24);
+            this.listSalesOrderToolStripMenuItem.Text = "List Sales Order";
+            // 
+            // listDeliveryNoteToolStripMenuItem
+            // 
+            this.listDeliveryNoteToolStripMenuItem.Name = "listDeliveryNoteToolStripMenuItem";
+            this.listDeliveryNoteToolStripMenuItem.Size = new System.Drawing.Size(208, 24);
+            this.listDeliveryNoteToolStripMenuItem.Text = "List Delivery Note";
+            // 
+            // listSalesInvoiceToolStripMenuItem1
+            // 
+            this.listSalesInvoiceToolStripMenuItem1.Name = "listSalesInvoiceToolStripMenuItem1";
+            this.listSalesInvoiceToolStripMenuItem1.Size = new System.Drawing.Size(208, 24);
+            this.listSalesInvoiceToolStripMenuItem1.Text = "List Sales Invoice";
+            // 
+            // listCashMemoToolStripMenuItem
+            // 
+            this.listCashMemoToolStripMenuItem.Name = "listCashMemoToolStripMenuItem";
+            this.listCashMemoToolStripMenuItem.Size = new System.Drawing.Size(208, 24);
+            this.listCashMemoToolStripMenuItem.Text = "List Cash Memo";
+            // 
+            // listSalesReturnToolStripMenuItem
+            // 
+            this.listSalesReturnToolStripMenuItem.Name = "listSalesReturnToolStripMenuItem";
+            this.listSalesReturnToolStripMenuItem.Size = new System.Drawing.Size(208, 24);
+            this.listSalesReturnToolStripMenuItem.Text = "List Sales Return";
+            // 
+            // listImportBillsToolStripMenuItem
+            // 
+            this.listImportBillsToolStripMenuItem.Name = "listImportBillsToolStripMenuItem";
+            this.listImportBillsToolStripMenuItem.Size = new System.Drawing.Size(208, 24);
+            this.listImportBillsToolStripMenuItem.Text = "List Import Bills";
+            // 
+            // productionConsumptionToolStripMenuItem
+            // 
+            this.productionConsumptionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.listStoreIssueSlipsToolStripMenuItem,
+            this.listStoreReturnSlipsToolStripMenuItem,
+            this.listProductionAndConsumptionToolStripMenuItem,
+            this.listProductionCostToolStripMenuItem,
+            this.generateConsumptionVoucherToolStripMenuItem});
+            this.productionConsumptionToolStripMenuItem.Name = "productionConsumptionToolStripMenuItem";
+            this.productionConsumptionToolStripMenuItem.Size = new System.Drawing.Size(231, 39);
+            this.productionConsumptionToolStripMenuItem.Text = "Production and Consumption";
+            // 
+            // listStoreIssueSlipsToolStripMenuItem
+            // 
+            this.listStoreIssueSlipsToolStripMenuItem.Name = "listStoreIssueSlipsToolStripMenuItem";
+            this.listStoreIssueSlipsToolStripMenuItem.Size = new System.Drawing.Size(319, 24);
+            this.listStoreIssueSlipsToolStripMenuItem.Text = "List Store Issue Slips";
+            // 
+            // listStoreReturnSlipsToolStripMenuItem
+            // 
+            this.listStoreReturnSlipsToolStripMenuItem.Name = "listStoreReturnSlipsToolStripMenuItem";
+            this.listStoreReturnSlipsToolStripMenuItem.Size = new System.Drawing.Size(319, 24);
+            this.listStoreReturnSlipsToolStripMenuItem.Text = "List Store Return Slips";
+            // 
+            // listProductionAndConsumptionToolStripMenuItem
+            // 
+            this.listProductionAndConsumptionToolStripMenuItem.Name = "listProductionAndConsumptionToolStripMenuItem";
+            this.listProductionAndConsumptionToolStripMenuItem.Size = new System.Drawing.Size(319, 24);
+            this.listProductionAndConsumptionToolStripMenuItem.Text = "List Production and Consumption";
+            // 
+            // listProductionCostToolStripMenuItem
+            // 
+            this.listProductionCostToolStripMenuItem.Name = "listProductionCostToolStripMenuItem";
+            this.listProductionCostToolStripMenuItem.Size = new System.Drawing.Size(319, 24);
+            this.listProductionCostToolStripMenuItem.Text = "List Production Cost";
+            // 
+            // generateConsumptionVoucherToolStripMenuItem
+            // 
+            this.generateConsumptionVoucherToolStripMenuItem.Name = "generateConsumptionVoucherToolStripMenuItem";
+            this.generateConsumptionVoucherToolStripMenuItem.Size = new System.Drawing.Size(319, 24);
+            this.generateConsumptionVoucherToolStripMenuItem.Text = "Generate Consumption Voucher";
+            // 
+            // reportsToolStripMenuItem
+            // 
+            this.reportsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.listOfDesignedLayoutsToolStripMenuItem,
+            this.generateAndPrintFinancialStatementsToolStripMenuItem,
+            this.generateAndPrintAccountingReportsToolStripMenuItem,
+            this.generateAndPrintInventoryReportsToolStripMenuItem});
+            this.reportsToolStripMenuItem.Name = "reportsToolStripMenuItem";
+            this.reportsToolStripMenuItem.Size = new System.Drawing.Size(78, 39);
+            this.reportsToolStripMenuItem.Text = "Reports";
+            // 
+            // listOfDesignedLayoutsToolStripMenuItem
+            // 
+            this.listOfDesignedLayoutsToolStripMenuItem.Name = "listOfDesignedLayoutsToolStripMenuItem";
+            this.listOfDesignedLayoutsToolStripMenuItem.Size = new System.Drawing.Size(368, 24);
+            this.listOfDesignedLayoutsToolStripMenuItem.Text = "List of Designed Layouts";
+            // 
+            // generateAndPrintFinancialStatementsToolStripMenuItem
+            // 
+            this.generateAndPrintFinancialStatementsToolStripMenuItem.Name = "generateAndPrintFinancialStatementsToolStripMenuItem";
+            this.generateAndPrintFinancialStatementsToolStripMenuItem.Size = new System.Drawing.Size(368, 24);
+            this.generateAndPrintFinancialStatementsToolStripMenuItem.Text = "Generate and Print Financial Statements";
+            // 
+            // generateAndPrintAccountingReportsToolStripMenuItem
+            // 
+            this.generateAndPrintAccountingReportsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.generateAndPrintVoucherJournalToolStripMenuItem,
+            this.generateAndPrintBooksToolStripMenuItem,
+            this.generateAndPrintTransactionRegisterToolStripMenuItem,
+            this.generateAndPrintLedgerOfAccountHeadsToolStripMenuItem,
+            this.generateAndPrintTrialBalanceToolStripMenuItem,
+            this.generateAndPrintAgeingReportToolStripMenuItem,
+            this.generateAndPrintInvoiceWiseOutstandingReportToolStripMenuItem,
+            this.generateAndPrintCreditExposureReportToolStripMenuItem,
+            this.generateAndPrintCollectionAndSalesReportToolStripMenuItem,
+            this.generateAndPrintPaymentsAndPurchaseReportsToolStripMenuItem,
+            this.generateAndPrintMonthlyComparisionReportToolStripMenuItem,
+            this.generateAndPrintMarkupCalculationSummarytToolStripMenuItem,
+            this.generateAndPrintMarkupCalculationDetailToolStripMenuItem,
+            this.generateAndPrintReceiptAndPaymentReportToolStripMenuItem});
+            this.generateAndPrintAccountingReportsToolStripMenuItem.Name = "generateAndPrintAccountingReportsToolStripMenuItem";
+            this.generateAndPrintAccountingReportsToolStripMenuItem.Size = new System.Drawing.Size(368, 24);
+            this.generateAndPrintAccountingReportsToolStripMenuItem.Text = "Generate and Print Accounting Reports";
+            // 
+            // generateAndPrintVoucherJournalToolStripMenuItem
+            // 
+            this.generateAndPrintVoucherJournalToolStripMenuItem.Name = "generateAndPrintVoucherJournalToolStripMenuItem";
+            this.generateAndPrintVoucherJournalToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintVoucherJournalToolStripMenuItem.Text = "Generate and Print Voucher Journal";
+            // 
+            // generateAndPrintBooksToolStripMenuItem
+            // 
+            this.generateAndPrintBooksToolStripMenuItem.Name = "generateAndPrintBooksToolStripMenuItem";
+            this.generateAndPrintBooksToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintBooksToolStripMenuItem.Text = "Generate and Print Books";
+            // 
+            // generateAndPrintTransactionRegisterToolStripMenuItem
+            // 
+            this.generateAndPrintTransactionRegisterToolStripMenuItem.Name = "generateAndPrintTransactionRegisterToolStripMenuItem";
+            this.generateAndPrintTransactionRegisterToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintTransactionRegisterToolStripMenuItem.Text = "Generate and Print Transaction Register";
+            // 
+            // generateAndPrintLedgerOfAccountHeadsToolStripMenuItem
+            // 
+            this.generateAndPrintLedgerOfAccountHeadsToolStripMenuItem.Name = "generateAndPrintLedgerOfAccountHeadsToolStripMenuItem";
+            this.generateAndPrintLedgerOfAccountHeadsToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintLedgerOfAccountHeadsToolStripMenuItem.Text = "Generate and Print Ledger of Account Heads";
+            // 
+            // generateAndPrintTrialBalanceToolStripMenuItem
+            // 
+            this.generateAndPrintTrialBalanceToolStripMenuItem.Name = "generateAndPrintTrialBalanceToolStripMenuItem";
+            this.generateAndPrintTrialBalanceToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintTrialBalanceToolStripMenuItem.Text = "Generate and Print Trial Balance";
+            // 
+            // generateAndPrintAgeingReportToolStripMenuItem
+            // 
+            this.generateAndPrintAgeingReportToolStripMenuItem.Name = "generateAndPrintAgeingReportToolStripMenuItem";
+            this.generateAndPrintAgeingReportToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintAgeingReportToolStripMenuItem.Text = "Generate and Print Ageing Report";
+            // 
+            // generateAndPrintInvoiceWiseOutstandingReportToolStripMenuItem
+            // 
+            this.generateAndPrintInvoiceWiseOutstandingReportToolStripMenuItem.Name = "generateAndPrintInvoiceWiseOutstandingReportToolStripMenuItem";
+            this.generateAndPrintInvoiceWiseOutstandingReportToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintInvoiceWiseOutstandingReportToolStripMenuItem.Text = "Generate and Print Invoice-wise Outstanding Report";
+            // 
+            // generateAndPrintCreditExposureReportToolStripMenuItem
+            // 
+            this.generateAndPrintCreditExposureReportToolStripMenuItem.Name = "generateAndPrintCreditExposureReportToolStripMenuItem";
+            this.generateAndPrintCreditExposureReportToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintCreditExposureReportToolStripMenuItem.Text = "Generate and Print Credit Exposure Report";
+            // 
+            // generateAndPrintCollectionAndSalesReportToolStripMenuItem
+            // 
+            this.generateAndPrintCollectionAndSalesReportToolStripMenuItem.Name = "generateAndPrintCollectionAndSalesReportToolStripMenuItem";
+            this.generateAndPrintCollectionAndSalesReportToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintCollectionAndSalesReportToolStripMenuItem.Text = "Generate and Print Collection and Sales Report";
+            // 
+            // generateAndPrintPaymentsAndPurchaseReportsToolStripMenuItem
+            // 
+            this.generateAndPrintPaymentsAndPurchaseReportsToolStripMenuItem.Name = "generateAndPrintPaymentsAndPurchaseReportsToolStripMenuItem";
+            this.generateAndPrintPaymentsAndPurchaseReportsToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintPaymentsAndPurchaseReportsToolStripMenuItem.Text = "Generate and Print Payments and Purchase Report";
+            // 
+            // generateAndPrintMonthlyComparisionReportToolStripMenuItem
+            // 
+            this.generateAndPrintMonthlyComparisionReportToolStripMenuItem.Name = "generateAndPrintMonthlyComparisionReportToolStripMenuItem";
+            this.generateAndPrintMonthlyComparisionReportToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintMonthlyComparisionReportToolStripMenuItem.Text = "Generate and Print Monthly Comparision Report";
+            // 
+            // generateAndPrintMarkupCalculationSummarytToolStripMenuItem
+            // 
+            this.generateAndPrintMarkupCalculationSummarytToolStripMenuItem.Name = "generateAndPrintMarkupCalculationSummarytToolStripMenuItem";
+            this.generateAndPrintMarkupCalculationSummarytToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintMarkupCalculationSummarytToolStripMenuItem.Text = "Generate and Print Markup Calculation Summaryt";
+            // 
+            // generateAndPrintMarkupCalculationDetailToolStripMenuItem
+            // 
+            this.generateAndPrintMarkupCalculationDetailToolStripMenuItem.Name = "generateAndPrintMarkupCalculationDetailToolStripMenuItem";
+            this.generateAndPrintMarkupCalculationDetailToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintMarkupCalculationDetailToolStripMenuItem.Text = "Generate and Print Markup Calculation Detail";
+            // 
+            // generateAndPrintReceiptAndPaymentReportToolStripMenuItem
+            // 
+            this.generateAndPrintReceiptAndPaymentReportToolStripMenuItem.Name = "generateAndPrintReceiptAndPaymentReportToolStripMenuItem";
+            this.generateAndPrintReceiptAndPaymentReportToolStripMenuItem.Size = new System.Drawing.Size(454, 24);
+            this.generateAndPrintReceiptAndPaymentReportToolStripMenuItem.Text = "Generate and Print Receipt and Payment Report";
+            // 
+            // generateAndPrintInventoryReportsToolStripMenuItem
+            // 
+            this.generateAndPrintInventoryReportsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.generateAndPrintSalesReportToolStripMenuItem,
+            this.generateAndPrintPurchaseReportsToolStripMenuItem,
+            this.generateAndPrintProductionAndConsumptionReportsToolStripMenuItem,
+            this.generateAndPrintStockReportsToolStripMenuItem});
+            this.generateAndPrintInventoryReportsToolStripMenuItem.Name = "generateAndPrintInventoryReportsToolStripMenuItem";
+            this.generateAndPrintInventoryReportsToolStripMenuItem.Size = new System.Drawing.Size(368, 24);
+            this.generateAndPrintInventoryReportsToolStripMenuItem.Text = "Generate and Print Inventory Reports";
+            // 
+            // generateAndPrintSalesReportToolStripMenuItem
+            // 
+            this.generateAndPrintSalesReportToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.generateAndPrintSalesOrderToolStripMenuItem,
+            this.generateAndPrintSalesRegisterToolStripMenuItem,
+            this.generateAndPrintSalesSummaryItemwiseToolStripMenuItem,
+            this.generateAndPrintSalesSummaryAccountwiseToolStripMenuItem,
+            this.generateAndPrintSalesSummaryItemwisePartywiseToolStripMenuItem,
+            this.generateAndPrintSalesSummaryPartywiseItemwiseToolStripMenuItem,
+            this.generateAndPrintSalesReturnRegisterToolStripMenuItem,
+            this.generateAndPrintSalesReturnSummaryItemwiseToolStripMenuItem,
+            this.generateAndPrintSalesReturnSummaryAccountwiseToolStripMenuItem,
+            this.generateAndPrintSalesReturnItemwisePartywiseToolStripMenuItem,
+            this.generateAndPrintSalesReturnPartywiseItemwiseToolStripMenuItem});
+            this.generateAndPrintSalesReportToolStripMenuItem.Name = "generateAndPrintSalesReportToolStripMenuItem";
+            this.generateAndPrintSalesReportToolStripMenuItem.Size = new System.Drawing.Size(490, 24);
+            this.generateAndPrintSalesReportToolStripMenuItem.Text = "Generate and Print Sales Report";
+            // 
+            // generateAndPrintSalesOrderToolStripMenuItem
+            // 
+            this.generateAndPrintSalesOrderToolStripMenuItem.Name = "generateAndPrintSalesOrderToolStripMenuItem";
+            this.generateAndPrintSalesOrderToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesOrderToolStripMenuItem.Text = "Generate and Print Sales Order";
+            // 
+            // generateAndPrintSalesRegisterToolStripMenuItem
+            // 
+            this.generateAndPrintSalesRegisterToolStripMenuItem.Name = "generateAndPrintSalesRegisterToolStripMenuItem";
+            this.generateAndPrintSalesRegisterToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesRegisterToolStripMenuItem.Text = "Generate and Print Sales Register";
+            // 
+            // generateAndPrintSalesSummaryItemwiseToolStripMenuItem
+            // 
+            this.generateAndPrintSalesSummaryItemwiseToolStripMenuItem.Name = "generateAndPrintSalesSummaryItemwiseToolStripMenuItem";
+            this.generateAndPrintSalesSummaryItemwiseToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesSummaryItemwiseToolStripMenuItem.Text = "Generate and Print Sales Summary Item-wise";
+            // 
+            // generateAndPrintSalesSummaryAccountwiseToolStripMenuItem
+            // 
+            this.generateAndPrintSalesSummaryAccountwiseToolStripMenuItem.Name = "generateAndPrintSalesSummaryAccountwiseToolStripMenuItem";
+            this.generateAndPrintSalesSummaryAccountwiseToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesSummaryAccountwiseToolStripMenuItem.Text = "Generate and Print Sales Summary Account-wise";
+            // 
+            // generateAndPrintSalesSummaryItemwisePartywiseToolStripMenuItem
+            // 
+            this.generateAndPrintSalesSummaryItemwisePartywiseToolStripMenuItem.Name = "generateAndPrintSalesSummaryItemwisePartywiseToolStripMenuItem";
+            this.generateAndPrintSalesSummaryItemwisePartywiseToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesSummaryItemwisePartywiseToolStripMenuItem.Text = "Generate and Print Sales Summary Item-wise Party-wise";
+            // 
+            // generateAndPrintSalesSummaryPartywiseItemwiseToolStripMenuItem
+            // 
+            this.generateAndPrintSalesSummaryPartywiseItemwiseToolStripMenuItem.Name = "generateAndPrintSalesSummaryPartywiseItemwiseToolStripMenuItem";
+            this.generateAndPrintSalesSummaryPartywiseItemwiseToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesSummaryPartywiseItemwiseToolStripMenuItem.Text = "Generate and Print Sales Summary Party-wise Item-wise";
+            // 
+            // generateAndPrintSalesReturnRegisterToolStripMenuItem
+            // 
+            this.generateAndPrintSalesReturnRegisterToolStripMenuItem.Name = "generateAndPrintSalesReturnRegisterToolStripMenuItem";
+            this.generateAndPrintSalesReturnRegisterToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesReturnRegisterToolStripMenuItem.Text = "Generate and Print Sales Return Register";
+            // 
+            // generateAndPrintSalesReturnSummaryItemwiseToolStripMenuItem
+            // 
+            this.generateAndPrintSalesReturnSummaryItemwiseToolStripMenuItem.Name = "generateAndPrintSalesReturnSummaryItemwiseToolStripMenuItem";
+            this.generateAndPrintSalesReturnSummaryItemwiseToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesReturnSummaryItemwiseToolStripMenuItem.Text = "Generate and Print Sales Return Summary Item-wise";
+            // 
+            // generateAndPrintSalesReturnSummaryAccountwiseToolStripMenuItem
+            // 
+            this.generateAndPrintSalesReturnSummaryAccountwiseToolStripMenuItem.Name = "generateAndPrintSalesReturnSummaryAccountwiseToolStripMenuItem";
+            this.generateAndPrintSalesReturnSummaryAccountwiseToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesReturnSummaryAccountwiseToolStripMenuItem.Text = "Generate and Print Sales Return Summary Account-wise";
+            // 
+            // generateAndPrintSalesReturnItemwisePartywiseToolStripMenuItem
+            // 
+            this.generateAndPrintSalesReturnItemwisePartywiseToolStripMenuItem.Name = "generateAndPrintSalesReturnItemwisePartywiseToolStripMenuItem";
+            this.generateAndPrintSalesReturnItemwisePartywiseToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesReturnItemwisePartywiseToolStripMenuItem.Text = "Generate and Print Sales Return Item-wise Party-wise";
+            // 
+            // generateAndPrintSalesReturnPartywiseItemwiseToolStripMenuItem
+            // 
+            this.generateAndPrintSalesReturnPartywiseItemwiseToolStripMenuItem.Name = "generateAndPrintSalesReturnPartywiseItemwiseToolStripMenuItem";
+            this.generateAndPrintSalesReturnPartywiseItemwiseToolStripMenuItem.Size = new System.Drawing.Size(483, 24);
+            this.generateAndPrintSalesReturnPartywiseItemwiseToolStripMenuItem.Text = "Generate and Print Sales Return Party-wise Item-wise";
+            // 
+            // generateAndPrintPurchaseReportsToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseReportsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.generateAndPrintPurchaseOrderToolStripMenuItem,
+            this.generateAndPrintPurchaseRegisterToolStripMenuItem,
+            this.generateAndPrintPurchaseSummaryItemwiseToolStripMenuItem,
+            this.generateAndPrintPurchaseSummaryAccountwiseToolStripMenuItem,
+            this.generateAndPrintPurchaseSummaryItemwisePartywiseToolStripMenuItem,
+            this.generateAndPrintPurchaseSummaryPartywiseItemwiseToolStripMenuItem,
+            this.generateAndPrintPurchaseReturnsRegisterToolStripMenuItem,
+            this.generateAndPrintPurchaseReturnsSummaryItemwiseToolStripMenuItem,
+            this.generateAndPrintPurchaseReturnsSummaryAccountwiseToolStripMenuItem,
+            this.generateAndPrintPurchaseReturnsSummaryItemwisePartywiseToolStripMenuItem,
+            this.generateAndPrintPurchaseReturnsSummaryPartywiseItemwiseToolStripMenuItem});
+            this.generateAndPrintPurchaseReportsToolStripMenuItem.Name = "generateAndPrintPurchaseReportsToolStripMenuItem";
+            this.generateAndPrintPurchaseReportsToolStripMenuItem.Size = new System.Drawing.Size(490, 24);
+            this.generateAndPrintPurchaseReportsToolStripMenuItem.Text = "Generate and Print Purchase Reports";
+            // 
+            // generateAndPrintPurchaseOrderToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseOrderToolStripMenuItem.Name = "generateAndPrintPurchaseOrderToolStripMenuItem";
+            this.generateAndPrintPurchaseOrderToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseOrderToolStripMenuItem.Text = "Generate and Print Purchase Order";
+            // 
+            // generateAndPrintPurchaseRegisterToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseRegisterToolStripMenuItem.Name = "generateAndPrintPurchaseRegisterToolStripMenuItem";
+            this.generateAndPrintPurchaseRegisterToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseRegisterToolStripMenuItem.Text = "Generate and Print Purchase Register";
+            // 
+            // generateAndPrintPurchaseSummaryItemwiseToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseSummaryItemwiseToolStripMenuItem.Name = "generateAndPrintPurchaseSummaryItemwiseToolStripMenuItem";
+            this.generateAndPrintPurchaseSummaryItemwiseToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseSummaryItemwiseToolStripMenuItem.Text = "Generate and Print Purchase Summary Item-wise";
+            // 
+            // generateAndPrintPurchaseSummaryAccountwiseToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseSummaryAccountwiseToolStripMenuItem.Name = "generateAndPrintPurchaseSummaryAccountwiseToolStripMenuItem";
+            this.generateAndPrintPurchaseSummaryAccountwiseToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseSummaryAccountwiseToolStripMenuItem.Text = "Generate and Print Purchase Summary Account-wise";
+            // 
+            // generateAndPrintPurchaseSummaryItemwisePartywiseToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseSummaryItemwisePartywiseToolStripMenuItem.Name = "generateAndPrintPurchaseSummaryItemwisePartywiseToolStripMenuItem";
+            this.generateAndPrintPurchaseSummaryItemwisePartywiseToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseSummaryItemwisePartywiseToolStripMenuItem.Text = "Generate and Print Purchase Summary Item-wise Party-wise";
+            // 
+            // generateAndPrintPurchaseSummaryPartywiseItemwiseToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseSummaryPartywiseItemwiseToolStripMenuItem.Name = "generateAndPrintPurchaseSummaryPartywiseItemwiseToolStripMenuItem";
+            this.generateAndPrintPurchaseSummaryPartywiseItemwiseToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseSummaryPartywiseItemwiseToolStripMenuItem.Text = "Generate and Print Purchase Summary Party-wise Item-wise";
+            // 
+            // generateAndPrintPurchaseReturnsRegisterToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseReturnsRegisterToolStripMenuItem.Name = "generateAndPrintPurchaseReturnsRegisterToolStripMenuItem";
+            this.generateAndPrintPurchaseReturnsRegisterToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseReturnsRegisterToolStripMenuItem.Text = "Generate and Print Purchase Returns Register";
+            // 
+            // generateAndPrintPurchaseReturnsSummaryItemwiseToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseReturnsSummaryItemwiseToolStripMenuItem.Name = "generateAndPrintPurchaseReturnsSummaryItemwiseToolStripMenuItem";
+            this.generateAndPrintPurchaseReturnsSummaryItemwiseToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseReturnsSummaryItemwiseToolStripMenuItem.Text = "Generate and Print Purchase Returns Summary Item-wise";
+            // 
+            // generateAndPrintPurchaseReturnsSummaryAccountwiseToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseReturnsSummaryAccountwiseToolStripMenuItem.Name = "generateAndPrintPurchaseReturnsSummaryAccountwiseToolStripMenuItem";
+            this.generateAndPrintPurchaseReturnsSummaryAccountwiseToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseReturnsSummaryAccountwiseToolStripMenuItem.Text = "Generate and Print Purchase Returns Summary Account-wise";
+            // 
+            // generateAndPrintPurchaseReturnsSummaryItemwisePartywiseToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseReturnsSummaryItemwisePartywiseToolStripMenuItem.Name = "generateAndPrintPurchaseReturnsSummaryItemwisePartywiseToolStripMenuItem";
+            this.generateAndPrintPurchaseReturnsSummaryItemwisePartywiseToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseReturnsSummaryItemwisePartywiseToolStripMenuItem.Text = "Generate and Print Purchase Returns Summary Item-wise Party-wise";
+            // 
+            // generateAndPrintPurchaseReturnsSummaryPartywiseItemwiseToolStripMenuItem
+            // 
+            this.generateAndPrintPurchaseReturnsSummaryPartywiseItemwiseToolStripMenuItem.Name = "generateAndPrintPurchaseReturnsSummaryPartywiseItemwiseToolStripMenuItem";
+            this.generateAndPrintPurchaseReturnsSummaryPartywiseItemwiseToolStripMenuItem.Size = new System.Drawing.Size(574, 24);
+            this.generateAndPrintPurchaseReturnsSummaryPartywiseItemwiseToolStripMenuItem.Text = "Generate and Print Purchase Returns Summary Party-wise Item-wise";
+            // 
+            // generateAndPrintProductionAndConsumptionReportsToolStripMenuItem
+            // 
+            this.generateAndPrintProductionAndConsumptionReportsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.generateAndPrintStoreConsumptionRegisterToolStripMenuItem,
+            this.generateAndPrintStoreConsumptionSummaryToolStripMenuItem,
+            this.generateAndPrintProductionRegisterToolStripMenuItem,
+            this.generateAndPrintProductionAndConsumptionSummaryToolStripMenuItem});
+            this.generateAndPrintProductionAndConsumptionReportsToolStripMenuItem.Name = "generateAndPrintProductionAndConsumptionReportsToolStripMenuItem";
+            this.generateAndPrintProductionAndConsumptionReportsToolStripMenuItem.Size = new System.Drawing.Size(490, 24);
+            this.generateAndPrintProductionAndConsumptionReportsToolStripMenuItem.Text = "Generate and Print Production and Consumption Reports";
+            // 
+            // generateAndPrintStoreConsumptionRegisterToolStripMenuItem
+            // 
+            this.generateAndPrintStoreConsumptionRegisterToolStripMenuItem.Name = "generateAndPrintStoreConsumptionRegisterToolStripMenuItem";
+            this.generateAndPrintStoreConsumptionRegisterToolStripMenuItem.Size = new System.Drawing.Size(502, 24);
+            this.generateAndPrintStoreConsumptionRegisterToolStripMenuItem.Text = "Generate and Print Store Consumption Register";
+            // 
+            // generateAndPrintStoreConsumptionSummaryToolStripMenuItem
+            // 
+            this.generateAndPrintStoreConsumptionSummaryToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.itemwiseSummaryToolStripMenuItem,
+            this.departmentwiseSummaryToolStripMenuItem,
+            this.workOrderwiseSummaryToolStripMenuItem});
+            this.generateAndPrintStoreConsumptionSummaryToolStripMenuItem.Name = "generateAndPrintStoreConsumptionSummaryToolStripMenuItem";
+            this.generateAndPrintStoreConsumptionSummaryToolStripMenuItem.Size = new System.Drawing.Size(502, 24);
+            this.generateAndPrintStoreConsumptionSummaryToolStripMenuItem.Text = "Generate and Print Store Consumption Summary";
+            // 
+            // itemwiseSummaryToolStripMenuItem
+            // 
+            this.itemwiseSummaryToolStripMenuItem.Name = "itemwiseSummaryToolStripMenuItem";
+            this.itemwiseSummaryToolStripMenuItem.Size = new System.Drawing.Size(276, 24);
+            this.itemwiseSummaryToolStripMenuItem.Text = "Item-wise Summary";
+            // 
+            // departmentwiseSummaryToolStripMenuItem
+            // 
+            this.departmentwiseSummaryToolStripMenuItem.Name = "departmentwiseSummaryToolStripMenuItem";
+            this.departmentwiseSummaryToolStripMenuItem.Size = new System.Drawing.Size(276, 24);
+            this.departmentwiseSummaryToolStripMenuItem.Text = "Department-wise Summary";
+            // 
+            // workOrderwiseSummaryToolStripMenuItem
+            // 
+            this.workOrderwiseSummaryToolStripMenuItem.Name = "workOrderwiseSummaryToolStripMenuItem";
+            this.workOrderwiseSummaryToolStripMenuItem.Size = new System.Drawing.Size(276, 24);
+            this.workOrderwiseSummaryToolStripMenuItem.Text = "WorkOrder-wise Summary";
+            // 
+            // generateAndPrintProductionRegisterToolStripMenuItem
+            // 
+            this.generateAndPrintProductionRegisterToolStripMenuItem.Name = "generateAndPrintProductionRegisterToolStripMenuItem";
+            this.generateAndPrintProductionRegisterToolStripMenuItem.Size = new System.Drawing.Size(502, 24);
+            this.generateAndPrintProductionRegisterToolStripMenuItem.Text = "Generate and Print Production Register";
+            // 
+            // generateAndPrintProductionAndConsumptionSummaryToolStripMenuItem
+            // 
+            this.generateAndPrintProductionAndConsumptionSummaryToolStripMenuItem.Name = "generateAndPrintProductionAndConsumptionSummaryToolStripMenuItem";
+            this.generateAndPrintProductionAndConsumptionSummaryToolStripMenuItem.Size = new System.Drawing.Size(502, 24);
+            this.generateAndPrintProductionAndConsumptionSummaryToolStripMenuItem.Text = "Generate and Print Production and Consumption Summary";
+            // 
+            // generateAndPrintStockReportsToolStripMenuItem
+            // 
+            this.generateAndPrintStockReportsToolStripMenuItem.Name = "generateAndPrintStockReportsToolStripMenuItem";
+            this.generateAndPrintStockReportsToolStripMenuItem.Size = new System.Drawing.Size(490, 24);
+            this.generateAndPrintStockReportsToolStripMenuItem.Text = "Generate and Print Stock Reports";
+            // 
+            // allocationDistributionToolStripMenuItem
+            // 
+            this.allocationDistributionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.listSalesInvoiceToolStripMenuItem,
+            this.listCostCentersToolStripMenuItem,
+            this.listDepartmentsToolStripMenuItem,
+            this.listWorkOrdersToolStripMenuItem,
+            this.listGodownWarehousesToolStripMenuItem,
+            this.listJobsToolStripMenuItem,
+            this.listProjectsToolStripMenuItem,
+            this.listForeignCurrencyToolStripMenuItem});
+            this.allocationDistributionToolStripMenuItem.Name = "allocationDistributionToolStripMenuItem";
+            this.allocationDistributionToolStripMenuItem.Size = new System.Drawing.Size(189, 39);
+            this.allocationDistributionToolStripMenuItem.Text = "Allocation/Distribution";
+            // 
+            // listSalesInvoiceToolStripMenuItem
+            // 
+            this.listSalesInvoiceToolStripMenuItem.Name = "listSalesInvoiceToolStripMenuItem";
+            this.listSalesInvoiceToolStripMenuItem.Size = new System.Drawing.Size(268, 24);
+            this.listSalesInvoiceToolStripMenuItem.Text = "List Sales Invoice";
+            // 
+            // listCostCentersToolStripMenuItem
+            // 
+            this.listCostCentersToolStripMenuItem.Name = "listCostCentersToolStripMenuItem";
+            this.listCostCentersToolStripMenuItem.Size = new System.Drawing.Size(268, 24);
+            this.listCostCentersToolStripMenuItem.Text = "List Cost Centers";
+            // 
+            // listDepartmentsToolStripMenuItem
+            // 
+            this.listDepartmentsToolStripMenuItem.Name = "listDepartmentsToolStripMenuItem";
+            this.listDepartmentsToolStripMenuItem.Size = new System.Drawing.Size(268, 24);
+            this.listDepartmentsToolStripMenuItem.Text = "List Department";
+            // 
+            // listWorkOrdersToolStripMenuItem
+            // 
+            this.listWorkOrdersToolStripMenuItem.Name = "listWorkOrdersToolStripMenuItem";
+            this.listWorkOrdersToolStripMenuItem.Size = new System.Drawing.Size(268, 24);
+            this.listWorkOrdersToolStripMenuItem.Text = "List Work Orders";
+            // 
+            // listGodownWarehousesToolStripMenuItem
+            // 
+            this.listGodownWarehousesToolStripMenuItem.Name = "listGodownWarehousesToolStripMenuItem";
+            this.listGodownWarehousesToolStripMenuItem.Size = new System.Drawing.Size(268, 24);
+            this.listGodownWarehousesToolStripMenuItem.Text = "List Godown/Warehouses";
+            // 
+            // listJobsToolStripMenuItem
+            // 
+            this.listJobsToolStripMenuItem.Name = "listJobsToolStripMenuItem";
+            this.listJobsToolStripMenuItem.Size = new System.Drawing.Size(268, 24);
+            this.listJobsToolStripMenuItem.Text = "List Jobs";
+            // 
+            // listProjectsToolStripMenuItem
+            // 
+            this.listProjectsToolStripMenuItem.Name = "listProjectsToolStripMenuItem";
+            this.listProjectsToolStripMenuItem.Size = new System.Drawing.Size(268, 24);
+            this.listProjectsToolStripMenuItem.Text = "List Projects";
+            // 
+            // listForeignCurrencyToolStripMenuItem
+            // 
+            this.listForeignCurrencyToolStripMenuItem.Name = "listForeignCurrencyToolStripMenuItem";
+            this.listForeignCurrencyToolStripMenuItem.Size = new System.Drawing.Size(268, 24);
+            this.listForeignCurrencyToolStripMenuItem.Text = "List Foreign Currency";
+            // 
+            // setupToolStripMenuItem
+            // 
+            this.setupToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.dataBackupToolStripMenuItem,
+            this.renumberVouchersToolStripMenuItem,
+            this.remakeLedgerToolStripMenuItem,
+            this.setDatabasePropertiesToolStripMenuItem});
+            this.setupToolStripMenuItem.Name = "setupToolStripMenuItem";
+            this.setupToolStripMenuItem.Size = new System.Drawing.Size(62, 39);
+            this.setupToolStripMenuItem.Text = "Setup";
+            // 
+            // dataBackupToolStripMenuItem
+            // 
+            this.dataBackupToolStripMenuItem.Name = "dataBackupToolStripMenuItem";
+            this.dataBackupToolStripMenuItem.Size = new System.Drawing.Size(251, 24);
+            this.dataBackupToolStripMenuItem.Text = "Data Backup";
+            // 
+            // renumberVouchersToolStripMenuItem
+            // 
+            this.renumberVouchersToolStripMenuItem.Name = "renumberVouchersToolStripMenuItem";
+            this.renumberVouchersToolStripMenuItem.Size = new System.Drawing.Size(251, 24);
+            this.renumberVouchersToolStripMenuItem.Text = "Renumber Vouchers";
+            // 
+            // remakeLedgerToolStripMenuItem
+            // 
+            this.remakeLedgerToolStripMenuItem.Name = "remakeLedgerToolStripMenuItem";
+            this.remakeLedgerToolStripMenuItem.Size = new System.Drawing.Size(251, 24);
+            this.remakeLedgerToolStripMenuItem.Text = "Remake Ledger";
+            // 
+            // setDatabasePropertiesToolStripMenuItem
+            // 
+            this.setDatabasePropertiesToolStripMenuItem.Name = "setDatabasePropertiesToolStripMenuItem";
+            this.setDatabasePropertiesToolStripMenuItem.Size = new System.Drawing.Size(251, 24);
+            this.setDatabasePropertiesToolStripMenuItem.Text = "Set Database Properties";
+            // 
+            // Button_Add
+            // 
+            this.Button_Add.BackColor = System.Drawing.SystemColors.Window;
+            this.Button_Add.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Button_Add.Font = new System.Drawing.Font("Bell MT", 14.25F, System.Drawing.FontStyle.Bold);
+            this.Button_Add.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.Button_Add.Location = new System.Drawing.Point(512, 464);
+            this.Button_Add.Name = "Button_Add";
+            this.Button_Add.Size = new System.Drawing.Size(113, 38);
+            this.Button_Add.TabIndex = 11;
+            this.Button_Add.Text = "Add";
+            this.Button_Add.UseVisualStyleBackColor = false;
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.Window;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Bell MT", 14.25F, System.Drawing.FontStyle.Bold);
+            this.button1.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.button1.Location = new System.Drawing.Point(332, 464);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(113, 38);
+            this.button1.TabIndex = 12;
+            this.button1.Text = "Search";
+            this.button1.UseVisualStyleBackColor = false;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.SystemColors.Window;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Bell MT", 14.25F, System.Drawing.FontStyle.Bold);
+            this.button2.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.button2.Location = new System.Drawing.Point(689, 464);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(113, 38);
+            this.button2.TabIndex = 13;
+            this.button2.Text = "Properties";
+            this.button2.UseVisualStyleBackColor = false;
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.SystemColors.Window;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("Bell MT", 14.25F, System.Drawing.FontStyle.Bold);
+            this.button3.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.button3.Location = new System.Drawing.Point(874, 464);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(113, 38);
+            this.button3.TabIndex = 14;
+            this.button3.Text = "Print";
+            this.button3.UseVisualStyleBackColor = false;
+            // 
+            // List_Books
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(1370, 749);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.Button_Add);
+            this.Controls.Add(this.menuStrip1);
+            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.tabControl1);
+            this.Controls.Add(this.label1);
+            this.Name = "List_Books";
+            this.Text = "List_Books";
+            this.tabControl1.ResumeLayout(false);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.TabPage tabPage3;
+        private System.Windows.Forms.TabPage tabPage4;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem accountingTransactionsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listBooksToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listVouchersToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem changeVoucherTypesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem transactionApprovalToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem transactionMarkingToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem chartingToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listAccountHeadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listInventoryHeadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listAccountParentHeadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listInventoryParentHeadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listAccountAttributesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listInventoryAttributesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem openingBalancesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listAccountHeadOpeningBalancesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listInventoryHeadOpeningBalancesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem carryForwardToNextYearToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem accountHeadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem inventoryHeadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem broughtForwardFromLastYearToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem accountHeadToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem inventoryHeadToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem purchasesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listPurchaseRequisitionToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listPurchaseOrdersToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listGoodsRecieptNoteToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listPurchaseBillToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listPurchaseReturnsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listExportInvoicesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem salesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listSalesInquiryToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listSalesOrderToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listDeliveryNoteToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listSalesInvoiceToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem listCashMemoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listSalesReturnToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listImportBillsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem productionConsumptionToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listStoreIssueSlipsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listStoreReturnSlipsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listProductionAndConsumptionToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listProductionCostToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateConsumptionVoucherToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem reportsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listOfDesignedLayoutsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintFinancialStatementsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintAccountingReportsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintVoucherJournalToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintBooksToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintTransactionRegisterToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintLedgerOfAccountHeadsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintTrialBalanceToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintAgeingReportToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintInvoiceWiseOutstandingReportToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintCreditExposureReportToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintCollectionAndSalesReportToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPaymentsAndPurchaseReportsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintMonthlyComparisionReportToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintMarkupCalculationSummarytToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintMarkupCalculationDetailToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintReceiptAndPaymentReportToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintInventoryReportsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesReportToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesOrderToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesRegisterToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesSummaryItemwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesSummaryAccountwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesSummaryItemwisePartywiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesSummaryPartywiseItemwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesReturnRegisterToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesReturnSummaryItemwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesReturnSummaryAccountwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesReturnItemwisePartywiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintSalesReturnPartywiseItemwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseReportsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseOrderToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseRegisterToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseSummaryItemwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseSummaryAccountwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseSummaryItemwisePartywiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseSummaryPartywiseItemwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseReturnsRegisterToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseReturnsSummaryItemwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseReturnsSummaryAccountwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseReturnsSummaryItemwisePartywiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintPurchaseReturnsSummaryPartywiseItemwiseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintProductionAndConsumptionReportsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintStoreConsumptionRegisterToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintStoreConsumptionSummaryToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem itemwiseSummaryToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem departmentwiseSummaryToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem workOrderwiseSummaryToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintProductionRegisterToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintProductionAndConsumptionSummaryToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateAndPrintStockReportsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem allocationDistributionToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listSalesInvoiceToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listCostCentersToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listDepartmentsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listWorkOrdersToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listGodownWarehousesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listJobsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listProjectsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listForeignCurrencyToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem setupToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem dataBackupToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem renumberVouchersToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem remakeLedgerToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem setDatabasePropertiesToolStripMenuItem;
+        private System.Windows.Forms.Button Button_Add;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+    }
+}

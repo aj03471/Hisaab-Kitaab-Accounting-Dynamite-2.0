@@ -1,0 +1,230 @@
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe.config
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.pdb
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form1.resources
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form2.resources
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form3.resources
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Properties.Resources.resources
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.exe
+C:\Users\hp\source\repos\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.pdb
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe.config
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.pdb
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csprojAssemblyReference.cache
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form1.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form2.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form3.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Properties.Resources.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.GenerateResource.cache
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.CoreCompileInputs.cache
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.exe
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.pdb
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head_Add.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Choose.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Double.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Single.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Add.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add1.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties1.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties.resources
+C:\Users\Abira\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Datascience.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe.config
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.pdb
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csprojAssemblyReference.cache
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Datascience.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form1.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form2.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form3.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add1.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties1.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head_Add.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Choose.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Double.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Single.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Add.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Properties.Resources.resources
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.GenerateResource.cache
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.exe
+\\Mac\Home\Documents\folder\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.pdb
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe.config
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.pdb
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csprojAssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Datascience.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form1.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form2.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form3.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add1.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties1.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head_Add.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Choose.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Double.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Single.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Add.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.exe
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.pdb
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Abira\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.ListAccountHead_Tree.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe.config
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.pdb
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csprojAssemblyReference.cache
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Datascience.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form1.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form2.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form3.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.ListAccountHead_Tree.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add1.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties1.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head_Add.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Choose.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Double.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Single.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Add.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Properties.Resources.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.GenerateResource.cache
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.CoreCompileInputs.cache
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.exe
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.pdb
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Attributes.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Attributes_Choose.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csprojAssemblyReference.cache
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Datascience.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form1.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form2.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Form3.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.ListAccountHead_Tree.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Attributes.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Attributes_Choose.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add1.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties1.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head_Add.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Choose.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Properties.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Double.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books_Add_Single.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Add.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Properties.Resources.resources
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.GenerateResource.cache
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.CoreCompileInputs.cache
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.exe
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.pdb
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe.config
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe
+C:\Users\CC\Documents\GitHub\Hisaab-Kitaab-New\Inara - New - PC\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.pdb
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Datascience.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Attributes.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head_Add.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Books.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Add.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Properties.Resources.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.GenerateResource.cache
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.CoreCompileInputs.cache
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.exe
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.pdb
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe.config
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.exe
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\Hisaab-Kitaab.pdb
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Login.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Select_Database.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Main_Menu.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\AdvancedDataGridView.dll
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\AdvancedDataGridView.xml
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csproj.CopyComplete
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Choose_Account_Parent_Head.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Parent_Head_Modify.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Attributes.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Attr_Dep.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Depriciation.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Define_Number_of_Units.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Address.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Cash_Bank_Book.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Other_Book.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Choose_Account_Head.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.ListInventoryAttributesChoose.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Cash_Sales_Invoice.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Credit_Note_Sales_Return.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Delivery_Note.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Purchase_Bill_Approval.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Purchase_Returns_Debit_Node.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Sales_Order.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.ListAccountHead_Tree.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Supplier_Details.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Purchase_Requistion.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Store_Issue_Slips.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Choose_Inventory_Head.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Sales_Inquiry.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Define_Department.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Liquidity_Ratios.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Single_Entry_Book_Add.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Double_Entry_Book.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Single_Entry_Book_Modify.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Receipt_Register.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.AccountCodePrintForm.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Data_Range_Dialogue_Box.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Dialogue_Box_Account_Head.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Dialogue_Box_Parent_Head.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Good_Receipt_Note.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.ParentTitlePrintForm.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Purchase_Order.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab-Kitaab.csprojAssemblyReference.cache
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Choose_Book.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Single_Entry_Book.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Attributes.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Parent_Head.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Parent_Head_Add.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Parent_Head_Modify.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Add_Choose.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties_CChoose.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties_PChoose.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties_PrChoose.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Inventory_Head_Properties_SChoose.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Choose_CLCA.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Add_Other.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.List_Account_Head_Opening_Balances.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Add_Opening_Bal.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Ledger_Accounts.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Add_Single_Entry_Transactions.resources
+D:\FYP\Hisaab-Kitaab\Hisaab-Kitaab\obj\Debug\Hisaab_Kitaab.Ledger.resources

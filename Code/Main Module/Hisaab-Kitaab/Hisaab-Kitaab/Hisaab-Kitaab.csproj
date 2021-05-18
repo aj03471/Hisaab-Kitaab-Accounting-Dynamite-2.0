@@ -1,0 +1,780 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2B2D6431-E695-48F3-8082-CE13A6C44DC8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Hisaab_Kitaab</RootNamespace>
+    <AssemblyName>Hisaab-Kitaab</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridView, Version=0.1.0.10, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ADGV.0.1.0.10\lib\net40\AdvancedDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountCodePrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountCodePrintForm.Designer.cs">
+      <DependentUpon>AccountCodePrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Opening_Bal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Opening_Bal.Designer.cs">
+      <DependentUpon>Add_Opening_Bal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Single_Entry_Transactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Single_Entry_Transactions.Designer.cs">
+      <DependentUpon>Add_Single_Entry_Transactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADS_2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ADS_2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cash_Bank_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cash_Bank_Book.Designer.cs">
+      <DependentUpon>Cash_Bank_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cash_Sales_Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cash_Sales_Invoice.designer.cs">
+      <DependentUpon>Cash_Sales_Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Choose_Account_Head.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Choose_Account_Head.Designer.cs">
+      <DependentUpon>Choose_Account_Head.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Choose_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Choose_Book.Designer.cs">
+      <DependentUpon>Choose_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Choose_CLCA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Choose_CLCA.Designer.cs">
+      <DependentUpon>Choose_CLCA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Choose_Inventory_Head.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Choose_Inventory_Head.designer.cs">
+      <DependentUpon>Choose_Inventory_Head.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Credit_Note_Sales_Return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Credit_Note_Sales_Return.designer.cs">
+      <DependentUpon>Credit_Note_Sales_Return.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dataconnection.cs" />
+    <Compile Include="Datascience.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datascience.Designer.cs">
+      <DependentUpon>Datascience.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data_Range_Dialogue_Box.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data_Range_Dialogue_Box.Designer.cs">
+      <DependentUpon>Data_Range_Dialogue_Box.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dbconnection.cs">
+      <DependentUpon>dbconnection.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbconnection.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbconnection.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Define_Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Define_Department.Designer.cs">
+      <DependentUpon>Define_Department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Define_Number_of_Units.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Define_Number_of_Units.Designer.cs">
+      <DependentUpon>Define_Number_of_Units.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delivery_Note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delivery_Note.designer.cs">
+      <DependentUpon>Delivery_Note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogue_Box_Account_Head.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogue_Box_Account_Head.Designer.cs">
+      <DependentUpon>Dialogue_Box_Account_Head.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogue_Box_Parent_Head.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogue_Box_Parent_Head.Designer.cs">
+      <DependentUpon>Dialogue_Box_Parent_Head.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Double_Entry_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Double_Entry_Book.Designer.cs">
+      <DependentUpon>Double_Entry_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Goods_Receipt_Note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Goods_Receipt_Note.Designer.cs">
+      <DependentUpon>Goods_Receipt_Note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelperClass.cs" />
+    <Compile Include="Ledger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ledger.Designer.cs">
+      <DependentUpon>Ledger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ledger_Accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ledger_Accounts.Designer.cs">
+      <DependentUpon>Ledger_Accounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Liquidity_Ratios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Liquidity_Ratios.Designer.cs">
+      <DependentUpon>Liquidity_Ratios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List Inventory Attributes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List Inventory Attributes.designer.cs">
+      <DependentUpon>List Inventory Attributes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListAccountHead-Tree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListAccountHead-Tree.designer.cs">
+      <DependentUpon>ListAccountHead-Tree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Other.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Other.Designer.cs">
+      <DependentUpon>List_Account_Head_Add_Other.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Attributes_Choose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Attributes_Choose.Designer.cs">
+      <DependentUpon>List_Inventory_Attributes_Choose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Head.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Head.Designer.cs">
+      <DependentUpon>List_Account_Head.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Head_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Head_Add.Designer.cs">
+      <DependentUpon>List_Account_Head_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Address.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Address.Designer.cs">
+      <DependentUpon>List_Account_Head_Add_Address.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Attributes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Attributes.Designer.cs">
+      <DependentUpon>List_Account_Head_Add_Attributes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Attr_Dep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Attr_Dep.Designer.cs">
+      <DependentUpon>List_Account_Head_Add_Attr_Dep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Depriciation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Head_Add_Depriciation.Designer.cs">
+      <DependentUpon>List_Account_Head_Add_Depriciation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Head_Opening_Balances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Head_Opening_Balances.Designer.cs">
+      <DependentUpon>List_Account_Head_Opening_Balances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Parent_Head_Modify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Parent_Head_Modify.Designer.cs">
+      <DependentUpon>List_Account_Parent_Head_Modify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Head.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Head.designer.cs">
+      <DependentUpon>List_Inventory_Head.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Add.designer.cs">
+      <DependentUpon>List_Inventory_Head_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Add_Choose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Add_Choose.designer.cs">
+      <DependentUpon>List_Inventory_Head_Add_Choose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Opening_Balances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Opening_Balances.Designer.cs">
+      <DependentUpon>List_Inventory_Head_Opening_Balances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties.designer.cs">
+      <DependentUpon>List_Inventory_Head_Properties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties_CChoose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties_CChoose.designer.cs">
+      <DependentUpon>List_Inventory_Head_Properties_CChoose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties_PChoose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties_PChoose.designer.cs">
+      <DependentUpon>List_Inventory_Head_Properties_PChoose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties_PrChoose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties_PrChoose.designer.cs">
+      <DependentUpon>List_Inventory_Head_Properties_PrChoose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties_SChoose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Head_Properties_SChoose.designer.cs">
+      <DependentUpon>List_Inventory_Head_Properties_SChoose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Parent_Head.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Parent_Head.designer.cs">
+      <DependentUpon>List_Inventory_Parent_Head.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Parent_Head_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Parent_Head_Add.designer.cs">
+      <DependentUpon>List_Inventory_Parent_Head_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Inventory_Parent_Head_Modify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Inventory_Parent_Head_Modify.designer.cs">
+      <DependentUpon>List_Inventory_Parent_Head_Modify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Purchase_Requistion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Purchase_Requistion.designer.cs">
+      <DependentUpon>List_Purchase_Requistion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Store_Issue_Slips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Store_Issue_Slips.designer.cs">
+      <DependentUpon>List_Store_Issue_Slips.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other_Book.Designer.cs">
+      <DependentUpon>Other_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParentTitlePrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParentTitlePrintForm.Designer.cs">
+      <DependentUpon>ParentTitlePrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Purchase_Bill_Approval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase_Bill_Approval.designer.cs">
+      <DependentUpon>Purchase_Bill_Approval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Purchase_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase_Order.Designer.cs">
+      <DependentUpon>Purchase_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Purchase_Returns_Debit_Node.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase_Returns_Debit_Node.designer.cs">
+      <DependentUpon>Purchase_Returns_Debit_Node.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Receipt_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receipt_Register.Designer.cs">
+      <DependentUpon>Receipt_Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sales_Inquiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales_Inquiry.designer.cs">
+      <DependentUpon>Sales_Inquiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sales_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales_Order.designer.cs">
+      <DependentUpon>Sales_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Select_Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_Database.Designer.cs">
+      <DependentUpon>Select_Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Menu.Designer.cs">
+      <DependentUpon>Main_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Attributes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Attributes.Designer.cs">
+      <DependentUpon>List_Account_Attributes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Choose_Account_Parent_Head.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Choose_Account_Parent_Head.Designer.cs">
+      <DependentUpon>Choose_Account_Parent_Head.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Parent_Head.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Parent_Head.Designer.cs">
+      <DependentUpon>List_Account_Parent_Head.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Account_Parent_Head_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Account_Parent_Head_Add.Designer.cs">
+      <DependentUpon>List_Account_Parent_Head_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List_Books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Books.Designer.cs">
+      <DependentUpon>List_Books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="List_Single_Entry_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List_Single_Entry_Book.Designer.cs">
+      <DependentUpon>List_Single_Entry_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Single_Entry_Book_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Single_Entry_Book_Add.Designer.cs">
+      <DependentUpon>Single_Entry_Book_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Single_Entry_Book_Modify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Single_Entry_Book_Modify.Designer.cs">
+      <DependentUpon>Single_Entry_Book_Modify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Single_Entry_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Single_Entry_Book.Designer.cs">
+      <DependentUpon>Single_Entry_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier_Details.designer.cs">
+      <DependentUpon>Supplier_Details.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountCodePrintForm.resx">
+      <DependentUpon>AccountCodePrintForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Opening_Bal.resx">
+      <DependentUpon>Add_Opening_Bal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Single_Entry_Transactions.resx">
+      <DependentUpon>Add_Single_Entry_Transactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cash_Bank_Book.resx">
+      <DependentUpon>Cash_Bank_Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cash_Sales_Invoice.resx">
+      <DependentUpon>Cash_Sales_Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Choose_Account_Head.resx">
+      <DependentUpon>Choose_Account_Head.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Choose_Book.resx">
+      <DependentUpon>Choose_Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Choose_CLCA.resx">
+      <DependentUpon>Choose_CLCA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Choose_Inventory_Head.resx">
+      <DependentUpon>Choose_Inventory_Head.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credit_Note_Sales_Return.resx">
+      <DependentUpon>Credit_Note_Sales_Return.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Datascience.resx">
+      <DependentUpon>Datascience.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data_Range_Dialogue_Box.resx">
+      <DependentUpon>Data_Range_Dialogue_Box.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Define_Department.resx">
+      <DependentUpon>Define_Department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Define_Number_of_Units.resx">
+      <DependentUpon>Define_Number_of_Units.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delivery_Note.resx">
+      <DependentUpon>Delivery_Note.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogue_Box_Account_Head.resx">
+      <DependentUpon>Dialogue_Box_Account_Head.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogue_Box_Parent_Head.resx">
+      <DependentUpon>Dialogue_Box_Parent_Head.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Double_Entry_Book.resx">
+      <DependentUpon>Double_Entry_Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Goods_Receipt_Note.resx">
+      <DependentUpon>Goods_Receipt_Note.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ledger.resx">
+      <DependentUpon>Ledger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ledger_Accounts.resx">
+      <DependentUpon>Ledger_Accounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Liquidity_Ratios.resx">
+      <DependentUpon>Liquidity_Ratios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List Inventory Attributes.resx">
+      <DependentUpon>List Inventory Attributes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListAccountHead-Tree.resx">
+      <DependentUpon>ListAccountHead-Tree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Head_Add_Other.resx">
+      <DependentUpon>List_Account_Head_Add_Other.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Head_Opening_Balances.resx">
+      <DependentUpon>List_Account_Head_Opening_Balances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Attributes_Choose.resx">
+      <DependentUpon>List_Inventory_Attributes_Choose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Head.resx">
+      <DependentUpon>List_Account_Head.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Head_Add.resx">
+      <DependentUpon>List_Account_Head_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Head_Add_Address.resx">
+      <DependentUpon>List_Account_Head_Add_Address.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Head_Add_Attributes.resx">
+      <DependentUpon>List_Account_Head_Add_Attributes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Head_Add_Attr_Dep.resx">
+      <DependentUpon>List_Account_Head_Add_Attr_Dep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Head_Add_Depriciation.resx">
+      <DependentUpon>List_Account_Head_Add_Depriciation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Parent_Head_Modify.resx">
+      <DependentUpon>List_Account_Parent_Head_Modify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Head.resx">
+      <DependentUpon>List_Inventory_Head.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Head_Add.resx">
+      <DependentUpon>List_Inventory_Head_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Head_Add_Choose.resx">
+      <DependentUpon>List_Inventory_Head_Add_Choose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Head_Properties.resx">
+      <DependentUpon>List_Inventory_Head_Properties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Head_Properties_CChoose.resx">
+      <DependentUpon>List_Inventory_Head_Properties_CChoose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Head_Properties_PChoose.resx">
+      <DependentUpon>List_Inventory_Head_Properties_PChoose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Head_Properties_PrChoose.resx">
+      <DependentUpon>List_Inventory_Head_Properties_PrChoose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Head_Properties_SChoose.resx">
+      <DependentUpon>List_Inventory_Head_Properties_SChoose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Parent_Head.resx">
+      <DependentUpon>List_Inventory_Parent_Head.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Parent_Head_Add.resx">
+      <DependentUpon>List_Inventory_Parent_Head_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Inventory_Parent_Head_Modify.resx">
+      <DependentUpon>List_Inventory_Parent_Head_Modify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Purchase_Requistion.resx">
+      <DependentUpon>List_Purchase_Requistion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Store_Issue_Slips.resx">
+      <DependentUpon>List_Store_Issue_Slips.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other_Book.resx">
+      <DependentUpon>Other_Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParentTitlePrintForm.resx">
+      <DependentUpon>ParentTitlePrintForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Purchase_Bill_Approval.resx">
+      <DependentUpon>Purchase_Bill_Approval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Purchase_Order.resx">
+      <DependentUpon>Purchase_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Purchase_Returns_Debit_Node.resx">
+      <DependentUpon>Purchase_Returns_Debit_Node.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receipt_Register.resx">
+      <DependentUpon>Receipt_Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales_Inquiry.resx">
+      <DependentUpon>Sales_Inquiry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales_Order.resx">
+      <DependentUpon>Sales_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_Database.resx">
+      <DependentUpon>Select_Database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Menu.resx">
+      <DependentUpon>Main_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Attributes.resx">
+      <DependentUpon>List_Account_Attributes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Choose_Account_Parent_Head.resx">
+      <DependentUpon>Choose_Account_Parent_Head.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Parent_Head.resx">
+      <DependentUpon>List_Account_Parent_Head.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Account_Parent_Head_Add.resx">
+      <DependentUpon>List_Account_Parent_Head_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List_Books.resx">
+      <DependentUpon>List_Books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="List_Single_Entry_Book.resx">
+      <DependentUpon>List_Single_Entry_Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Single_Entry_Book_Add.resx">
+      <DependentUpon>Single_Entry_Book_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Single_Entry_Book_Modify.resx">
+      <DependentUpon>Single_Entry_Book_Modify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier_Details.resx">
+      <DependentUpon>Supplier_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ADS_2DataSet.xsc">
+      <DependentUpon>ADS_2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ADS_2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ADS_2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ADS_2DataSet.xss">
+      <DependentUpon>ADS_2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbconnection.xsc">
+      <DependentUpon>dbconnection.xsd</DependentUpon>
+    </None>
+    <None Include="dbconnection.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbconnection.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dbconnection.xss">
+      <DependentUpon>dbconnection.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADS-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EMAIL-edited-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phone-edited-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\premises-edited-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-02-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-3-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password-Eye-close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password-Eye-open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SDS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\premises.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\SDS1-removebg-preview.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
