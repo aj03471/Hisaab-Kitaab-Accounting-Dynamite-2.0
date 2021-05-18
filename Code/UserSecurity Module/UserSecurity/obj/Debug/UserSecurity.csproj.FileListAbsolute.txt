@@ -1,0 +1,193 @@
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+F:\Hisaab-Kitaab\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitaab-Hasan\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+F:\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.AddUser.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.AddUser.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+C:\Users\hp\Documents\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Compiled\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.AddUser.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+D:\Inara\Habib University\8th Sem\FYP - Kaavish II\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ActivityLog.resources
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.AddUser.resources
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+E:\GitHub\Hisaab-Kitaab-New\Hisaab-Kitab-Laiba\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ActivityLog.resources
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.AddUser.resources
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\bin\Debug\Aga.Controls.dll
+D:\FYP\UserSecurity-Laiba (1)\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CopyComplete
+N:\repos\C# Codes\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+N:\repos\C# Codes\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+N:\repos\C# Codes\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+N:\repos\C# Codes\UserSecurity\UserSecurity\bin\Debug\Aga.Controls.dll
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ActivityLog.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.AddUser.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers_Add.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CopyComplete
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+N:\repos\C# Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\bin\Debug\Aga.Controls.dll
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ActivityLog.resources
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CopyComplete
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\bin\Debug\Aga.Controls.dll
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ActivityLog.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CopyComplete
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+N:\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Form1.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Form1.resources
+\\NGHRESIDENCE\Projects_Dotnet\repos\CSharp Codes\UserSecurity\UserSecurity\obj\Debug\UserSecurity.FormSetPhotoPath.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csprojAssemblyReference.cache
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ActivityLog.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Databases.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.FormSetPhotoPath.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.ListUsers.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Log.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Login.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Menu1.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Properties.Resources.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.Rights.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.GenerateResource.cache
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.exe
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.pdb
+C:\Users\HP\Documents\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe.config
+C:\Users\HP\Documents\UserSecurity\UserSecurity\bin\Debug\UserSecurity.exe
+C:\Users\HP\Documents\UserSecurity\UserSecurity\bin\Debug\UserSecurity.pdb
+C:\Users\HP\Documents\UserSecurity\UserSecurity\bin\Debug\Aga.Controls.dll
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.AddUser.resources
+C:\Users\HP\Documents\UserSecurity\UserSecurity\obj\Debug\UserSecurity.csproj.CopyComplete
